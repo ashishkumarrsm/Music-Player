@@ -1,9 +1,6 @@
 # Ultimate-Music-Player [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/share?url=https://github.com/ashishkumarrsm/Music-Player) [![Share on LinkedIn](https://img.shields.io/badge/share-linkedin-blue.svg?longCache=true&style=flat&colorB=%230077b5)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/ashishkumarrsm/Music-Player)
 
-## Screenshot
-<p>
-    <a href="https://youtu.be/lcMNFBXV2d4" target="_blank"><img src="./readme_img/preview.png" alt="music-list"></a>
-</p>
+
 
 ## Functions:
 ### Modes:
